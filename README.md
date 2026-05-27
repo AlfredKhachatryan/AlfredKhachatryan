@@ -1,6 +1,6 @@
 # 👋 Alfred Khachatryan
 
-Building software since **June 13, 2022**. Primarily TypeScript and JavaScript, with work in CSS, HTML, and C#.
+Building software since **June 13, 2022**. Primarily TypeScript and JavaScript, with work in CSS, HTML.
 
 ### 📊 At a glance
 
